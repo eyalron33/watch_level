@@ -1,0 +1,49 @@
+{
+  "uuid": "c45186fd-abca-4426-8d81-78ee3ee28e5c",
+  "shortName": "Watch Level",
+  "longName": "Watch Level",
+  "companyName": "NeimanSoft",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+			{
+      "type": "png",
+      "name": "IMAGE_BUBBLE",
+      "file": "images/bubble.png"
+      },
+			{
+      "type": "png",
+      "name": "IMAGE_BUBBLE_X",
+      "file": "images/line_bar_x.png"
+			},
+			{
+      "type": "png",
+      "name": "IMAGE_BUBBLE_Y",
+      "file": "images/line_bar_y.png"
+			},
+      {
+			"type": "png",
+      "name": "IMAGE_MARK_X",
+      "file": "images/center_mark_x.png"
+			},
+			{
+      "type": "png",
+      "name": "IMAGE_MARK_Y",
+      "file": "images/center_mark_y.png"
+			},
+			{
+      "type": "png",
+			"name": "IMAGE_ARRANGEMENT",
+      "file": "images/arrangement.png"
+			}
+		]
+  }
+}
